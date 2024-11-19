@@ -1,0 +1,6 @@
+python-dotenv
+openai
+unicorn-binance-rest-api
+pandas
+numpy
+rich
